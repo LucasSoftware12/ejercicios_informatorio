@@ -11,7 +11,7 @@ este caso las listas pueden cambiar de tamaño pueden crecer o decrecer,
 los arreglos no.
 
 '''
-
+segunda prueba de pull request bettini matias
 # Creación de Listas --------------------------------------------------------------------------------------------
 
 lista_vacia = []
